@@ -134,6 +134,7 @@ main p {
     justify-content: space-between;
     flex-flow:row wrap; 
     max-width: 1200px;
+    
 }
 
 p span {
@@ -153,7 +154,6 @@ header, footer {
   display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 1px solid #555;
 }
 
 footer {
@@ -162,7 +162,9 @@ footer {
 
 footer i {
     padding: 30px 20px 0 0;
+    
 }
+
 
 /* ==========================================================================
    Helper classes
@@ -249,6 +251,8 @@ footer i {
   #div-1,
   #div-2{
       /* set your flex value to 1 50% */
+      
+    
       
       
   }
