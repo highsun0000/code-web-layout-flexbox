@@ -155,6 +155,7 @@ header, footer {
   display: flex;
     justify-content: center;
     align-items: center;
+    
 }
    
 
@@ -170,7 +171,11 @@ footer i {
 #div-2 p {
     border-right: 1px solid #999;
     border-left: 1px solid #999;
-    padding: 0 30px;  
+    padding: 0 30px; 
+}
+
+#div-1 p {
+    height: 180px;
 }
 
 
