@@ -135,6 +135,7 @@ main p {
     flex-flow:row wrap; 
     max-width: 1200px;
     
+    
 }
 
 p span {
@@ -155,6 +156,7 @@ header, footer {
     justify-content: center;
     align-items: center;
 }
+   
 
 footer {
     border-top: 1px solid #fff;
@@ -164,6 +166,16 @@ footer i {
     padding: 30px 20px 0 0;
     
 }
+
+#div-2 p {
+    border-right: 1px solid #999;
+    border-left: 1px solid #999;
+    padding: 0 30px;  
+}
+
+
+    
+
 
 
 /* ==========================================================================
